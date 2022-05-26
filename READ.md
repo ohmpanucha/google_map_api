@@ -4,7 +4,12 @@
 
 > npm install
 
-**start Nuxt**
+# start Nuxt
+**Access your application at http://localhost:3000**
 > npm run dev
 
-**Access your application at http://localhost:3000**
+
+# start Laravel
+> cd api
+
+> php artisan serve
