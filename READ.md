@@ -1,8 +1,8 @@
 
-**install dependencies**
+# install dependencies
 > cd client
+> npm install
 
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
+# Access your application at http://localhost:3000
+# start Nuxt
+> npm run dev
