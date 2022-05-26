@@ -1,6 +1,6 @@
 
 **install dependencies**
-cd client
+> cd client
 
 $ npm install
 
